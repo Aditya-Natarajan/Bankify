@@ -1,6 +1,6 @@
-package brahminsangama.database;
+package bankify.database;
 
-import brahminsangama.App;
+import bankify.App;
 
 import java.sql.Connection;
 import java.sql.DriverManager;

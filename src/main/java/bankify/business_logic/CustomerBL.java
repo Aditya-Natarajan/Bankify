@@ -1,11 +1,9 @@
-package brahminsangama.business_logic;
+package bankify.business_logic;
 
 
-import brahminsangama.beans.Customer;
-import brahminsangama.database.CustomerDB;
-import brahminsangama.database.DbConn;
-
-import java.sql.Connection;
+import bankify.beans.Customer;
+import bankify.database.CustomerDB;
+import bankify.database.DbConn;
 
 public class CustomerBL {
     public void addCustomer(Customer customer){

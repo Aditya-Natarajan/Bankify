@@ -1,8 +1,8 @@
-package brahminsangama.database;
+package bankify.database;
 
-import brahminsangama.App;
-import brahminsangama.beans.Status;
-import brahminsangama.beans.User;
+import bankify.App;
+import bankify.beans.Status;
+import bankify.beans.User;
 
 import java.security.MessageDigest;
 import java.security.NoSuchAlgorithmException;

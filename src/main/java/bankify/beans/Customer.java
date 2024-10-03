@@ -1,4 +1,4 @@
-package brahminsangama.beans;
+package bankify.beans;
 
 public class Customer {
     private String sFirstName;

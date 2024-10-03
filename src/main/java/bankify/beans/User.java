@@ -1,4 +1,4 @@
-package brahminsangama.beans;
+package bankify.beans;
 
 public class User {
      private String sPassWord;

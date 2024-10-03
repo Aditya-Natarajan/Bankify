@@ -1,8 +1,8 @@
-package brahminsangama.database;
+package bankify.database;
 
-import brahminsangama.App;
-import brahminsangama.beans.Customer;
-import brahminsangama.beans.Status;
+import bankify.App;
+import bankify.beans.Customer;
+import bankify.beans.Status;
 
 import java.sql.Connection;
 import java.sql.PreparedStatement;

@@ -1,4 +1,4 @@
-package brahminsangama;
+package bankify;
 
 public class App {
     public static final String sDbPath = "jdbc:sqlite:db/sangama.db";

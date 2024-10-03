@@ -1,6 +1,6 @@
-package brahminsangama.beans;
+package bankify.beans;
 
-import brahminsangama.App;
+import bankify.App;
 
 public class Status {
     private int iStatusCode;
